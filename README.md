@@ -1,6 +1,6 @@
 # Olá!
 
-Esse código é o fonte das aulas disponibilzadas pela Algaworks.
+Esse código é o fonte das aulas disponibilizadas pela Algaworks.
 
 ##
 
